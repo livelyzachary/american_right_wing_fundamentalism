@@ -14,14 +14,16 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a collection of items that demonstrate right wing organization and propaganda in the United States. Most of the items are from primary sources or relate directly to right wing organizations or thought leaders. Primary uses for this collection include:
+- Researching how fundamentalist groups spread their messaging
+- Understanding the timeline, progression, and transformation of right wing fundamentalist organizations
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## Primary Contributors to the Collection
+
+The majority of the pieces in this collection come from the American Radicalism Collection, the Walter Goldwater Political Pamphlet Collection, and the Library of Congress
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+

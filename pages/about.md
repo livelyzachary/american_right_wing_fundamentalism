@@ -20,7 +20,7 @@ This is a collection of items that demonstrate right wing organization and propa
 
 ## Primary Contributors to the Collection
 
-The majority of the pieces in this collection come from the American Radicalism Collection, the Walter Goldwater Political Pamphlet Collection, and the Library of Congress
+The majority of the pieces in this collection come from the American Radicalism Collection, the Walter Goldwater Political Pamphlet Collection, and the Library of Congress. 
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
